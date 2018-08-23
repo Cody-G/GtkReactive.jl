@@ -1,11 +1,11 @@
 julia 0.6
-Compat 0.17
-Gtk 0.13
-Cairo
-Colors
+Compat 0.17.0 1.0.1+
+Gtk 0.13.0 0.14.0+
+Cairo 0.4.0 0.5.0
+Colors 0.8.2 0.8.2+
 FixedPointNumbers 0.3
-Reexport
-Reactive 0.4.0
-Graphics 0.2
-IntervalSets 0.0.5
-RoundingIntegers
+Reexport 0.1.0 0.1.0+
+Reactive 0.4.0 0.7.0+
+Graphics 0.2.0 0.3.0+
+IntervalSets 0.0.5 0.2.0+
+RoundingIntegers 0.0.3 0.0.3+

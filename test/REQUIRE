@@ -1,5 +1,5 @@
-TestImages
-FileIO
-@linux ImageMagick
-@windows ImageMagick
+TestImages 0.3.0 0.3.0+
+FileIO 0.9.1 0.9.1+
+@linux ImageMagick 0.5.2 0.5.2+
+@windows ImageMagick 0.5.2 0.5.2+
 @osx QuartzImageIO
